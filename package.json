@@ -1,0 +1,35 @@
+{
+  "name": "react-redux-es6",
+  "version": "1.0.0",
+  "description": "React, redux using ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunterh/React-Redux-ES6.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "es6",
+    "react-router"
+  ],
+  "author": "Gunter Hillenbrand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunterh/React-Redux-ES6/issues"
+  },
+  "homepage": "https://github.com/gunterh/React-Redux-ES6#readme",
+  "engines": {
+    "node": "6.2.1"
+  },
+  "dependencies": {
+    "react": "15.3.1",
+    "react-router": "2.8.0"
+  },
+  "devDependencies": {
+    "webpack": "1.13.2"
+  }
+}
